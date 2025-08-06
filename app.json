@@ -1,13 +1,13 @@
 {
-  "name": "SUBZERO-MD",
+  "name": "maduvantha-MD",
   "description": "Whiskey Sockets Baileys Whatsapp bot By Mr Frank",
-  "logo": "https://i.postimg.cc/zv76KffW/IMG-20250115-WA0020.jpg",
-  "keywords": ["SUBZERO-MD"],
+  "logo": "https://files.catbox.moe/88mg5f.jpg",
+  "keywords": ["maduvantha-MD"],
   "success_url": "/",
   "stack": "heroku-24",
   "env": {
     "SESSION_ID": {
-      "description": "Put your Subzero session-id here.",
+      "description": "SUBZERO-MD;;;GBVnHJTQ#GUS2y6kkg1p6_PrFn9gvmg52JIqWVy1IRvon3T7KkQs",
       "required": true,
       "value": ""
     }
